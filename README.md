@@ -8,7 +8,8 @@ Please, be aware that this repo should be private, because is only information u
 
 
 # Optimize
+```go
 ┌──(user㉿linux)-[~/utn-finished]
-└─$ `python3 optimize.py` (no external libraries required)
-
+└─$ python3 optimize.py #(no external libraries required)
+```
 > Enjoy!
