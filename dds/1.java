@@ -439,7 +439,7 @@ pensa que el instanceof esta ligado al tipo, y siempre lo va a estar
 entonces.. vos si tenes un movimiento y tiene un method como esDeposito()
 pode smodificarlo con el tiempo, como queseyo, algo como
 esDeposito(){
-  return true if fechaDeHoy > fechaDeAYer (ejemplo mogolico)
+  return true if fechaDeHoy > fechaDeAYer (ejemplo pedazo de buena persona)
 }
 pero ganas en flexibildiad
 ----------------------------------------------------------------------------
