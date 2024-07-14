@@ -12,4 +12,4 @@ this repo should be private, because is only information useful for mine, but le
 ┌──(user㉿linux)-[~/utn-finished]
 └─$ python3 optimize.py
 ```
-> Enjoy!
+
