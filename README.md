@@ -1,15 +1,15 @@
-# UTN Finished
-This repo contains all the data from all the assignements that i've done.
+# utn-finished
+this contains all the data from all the assignements that i've finished.
 
-Please, be aware that this repo should be private, because is only information useful for my, but i leave it as public because sometimes my teammates need information from here.
-
-- There is also a `optimize.py` script that generates the structures, format the images and clean up this repo with useless things.
+this repo should be private, because is only information useful for mine, but leaving it as public because some mates grab info from here sometimes.
 
 
+- there is a `optimize.py` script that generates the structures, format the images and clean up this repo with useless things to keep it lightweight.
 
-# Optimize
+# optimize the repo
+> no external libs required.
 ```go
 ┌──(user㉿linux)-[~/utn-finished]
-└─$ python3 optimize.py #(no external libraries required)
+└─$ python3 optimize.py
 ```
 > Enjoy!
